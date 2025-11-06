@@ -7,7 +7,7 @@
 - elemento 
 1. elemento <br> 
 
-Imagen
+Imagen (o GIF)
 ![ae41ff774f479d05c2a35c22dbba57cc-fakepng](https://github.com/user-attachments/assets/b33f621a-206a-4ccd-83d0-a678748c155e)
 
 <!--
